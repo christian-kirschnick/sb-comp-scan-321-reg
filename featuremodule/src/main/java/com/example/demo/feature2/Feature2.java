@@ -1,7 +1,7 @@
-package com.example.demo.feature;
+package com.example.demo.feature2;
 
 import org.springframework.stereotype.Component;
 
 @Component
-public class DemoFeature {
+public class Feature2 {
 }
